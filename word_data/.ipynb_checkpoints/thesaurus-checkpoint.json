@@ -1,0 +1,62 @@
+{
+  "animals": [
+    "LION",
+    "TIGER",
+    "BEAR",
+    "WOLF",
+    "SHARK",
+    "ZEBRA",
+    "PANDA",
+    "EAGLE",
+    "SNAKE",
+    "MOUSE"
+  ],
+  "fruits": [
+    "APPLE",
+    "MANGO",
+    "GRAPE",
+    "PEACH",
+    "LEMON",
+    "MELON",
+    "BERRY",
+    "PRUNE",
+    "PLUM",
+    "KIWI"
+  ],
+  "countries": [
+    "CHINA",
+    "INDIA",
+    "ITALY",
+    "SPAIN",
+    "JAPAN",
+    "BRAZIL",
+    "EGYPT",
+    "CANADA",
+    "GREECE",
+    "CHILE"
+  ],
+  "sports": [
+    "SOCCER",
+    "TENNIS",
+    "HOCKEY",
+    "GOLF",
+    "RUGBY",
+    "CRICKET",
+    "BOXING",
+    "SWIMMING",
+    "CYCLING",
+    "SKIING"
+  ],
+  "science": [
+    "ATOM",
+    "CELL",
+    "GENE",
+    "MATH",
+    "DATA",
+    "ACID",
+    "BASE",
+    "MOON",
+    "STAR",
+    "WAVE"
+  ]
+}

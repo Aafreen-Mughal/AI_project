@@ -1,0 +1,13 @@
+{
+  "environment": {
+    "level": 1,
+    "score": 0,
+    "unlocked_levels": [
+      1
+    ],
+    "theme": "countries",
+    "current_level_number": null,
+    "remaining_words": []
+  },
+  "timestamp": "2025-04-25 21:31:33.935514"
+}
